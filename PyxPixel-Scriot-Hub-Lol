@@ -1,0 +1,71 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("PxyPixel Hub Beta", "Default")
+
+local tab = DrRayLibrary.newTab("Scripts", "ImageIdHere")
+
+tab.newButton("Bedol hub", "disable for a reason", function()
+
+    print('Hello!')
+end)
+tab.newButton("Prisonware", "for prison life ", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))();
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Whitehub v1", "for blade ball ", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/E07Wyg7L"))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("infinity Hub", "for Evade", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Infinity2346/Tect-Menu/main/Evade.txt'))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Leaf hub v1.2", "for blade ball ", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TopPlayzYT/Leaf-Hub/Main/BladeBall'))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Fsploit x hosvile", "for blade ball", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pz/Lol-lsl/main/Hosvile-With-Ui%3F-Fsploit-Remake"))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Zamex hub ", "for bloxfruit ", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Zee v2 ", "for bloxfruit ", function()
+loadstring(game:HttpGet("https://scriptdee.com/free/ZeeHubV2.lua"))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("soon!", "for ", function()
+
+    print('Thanks for using fsploit!')
+end)
+
+local tab = DrRayLibrary.newTab("hubs", "ImageIdHere")
+
+tab.newButton("Mini Hub", "Universal", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB",true))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Gigachad hub v5", "Universal", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/OWJBWKQLAISH/GigaChad-Hub/main/Gigachad%20hub%20V5'))()
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("soon!", "for ", function()
+
+    print('Thanks for using fsploit!')
+end)
+
+local tab = DrRayLibrary.newTab("info", "ImageIdHere")
+
+tab.newButton("Ui by fsploit", " ", function()
+
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("version v0.1 beta", " ", function()
+
+    print('Thanks for using fsploit!')
+end)
+tab.newButton("Pyxpixel", " ", function()
+
+    print('Thanks for using fsploit!')
+end)
